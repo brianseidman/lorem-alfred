@@ -1,4 +1,4 @@
-# Lorem Alfred
+# <img src='https://img.icons8.com/stickers/100/inscription.png' width='45' align='center' alt='Inscription icon'> Lorem Alfred
 
 An Alfred workflow primarily for generating HTML-coded dummy text.
 
