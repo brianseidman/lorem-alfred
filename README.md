@@ -6,6 +6,8 @@ By default, this workflow pastes two paragraphs of lorem ipsum text wrapped in H
 
 Other options include choosing the number of paragraphs and pasting plain text instead of HTML. You can also access all the parameters of the API for further customization.
 
+**[Download here](https://github.com/brianseidman/lorem-alfred/releases/tag/v1.0.0)**
+
 ## Commands
 |  |  |
 |--|--|
